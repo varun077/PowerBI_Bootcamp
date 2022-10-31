@@ -1,0 +1,3 @@
+SQL Server: 20.122.245.11,1433
+username:powerbi
+password:powerbi
